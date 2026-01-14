@@ -1,5 +1,5 @@
-# Machine Learning 2024
-**PHYS 453 - Spring 2024, Dr. Mike Daugherity, Abilene Christian University.**
+# Machine Learning 2026
+**PHYS 453 - Spring 2026, Dr. Mike Daugherity, Abilene Christian University.**
 
 ## Intro to Python and Data Science Tools
 * [PPT 0 - First Day slides](pdf/ML0.pdf): A too-short intro to data science and machine learning, and why it is taught by a physicist
@@ -7,8 +7,11 @@
 * [Tutorial 2 - Numpy](tutorial/Tutorial_02_Numpy.ipynb): Doing math with arrays in [numpy](https://numpy.org/)
 * [Tutorial 3 - matplotlib](tutorial/Tutorial_03_Plots_with_matplotlib.ipynb): Making plots with [matplotlib](https://matplotlib.org/)
 * Cheat Sheets: [numpy](pdf/numpy_cheat_sheet.pdf) | [matplotlib](pdf/matplotlib_cheat_sheet.pdf) | [pandas](pdf/pandas_cheat_sheet.pdf) | [sklearn](pdf/sklearn_cheat_sheet.pdf)
-* [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
 
+
+<!---
+COMMENTS!!!!!
+* [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
 
 ## Machine Learning Basics
 * [Tutorial 4 - First_Look_at_Data](tutorial/Tutorial_04_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
@@ -54,8 +57,7 @@ Copy-and-paste code to get you started on a problem
 * [PPT 11 - Modern Methods](pdf/ML11.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
 * 
 
-<!---
-COMMENTS!!!!!
+UNUSED???
 * [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
 * [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
 --->
