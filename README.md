@@ -7,7 +7,7 @@
 * [Tutorial 2 - Numpy](tutorial/Tutorial_02_Numpy.ipynb): Doing math with arrays in [numpy](https://numpy.org/)
 * [Tutorial 3 - matplotlib](tutorial/Tutorial_03_Plots_with_matplotlib.ipynb): Making plots with [matplotlib](https://matplotlib.org/)
 * Cheat Sheets: [numpy](pdf/numpy_cheat_sheet.pdf) | [matplotlib](pdf/matplotlib_cheat_sheet.pdf) | [pandas](pdf/pandas_cheat_sheet.pdf) | [sklearn](pdf/sklearn_cheat_sheet.pdf)
-
+* Exercise: [Python Practice](class/Python_Practice.ipynb) 
 
 <!---
 COMMENTS!!!!!
