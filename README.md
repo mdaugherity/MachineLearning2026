@@ -12,6 +12,7 @@
 ## Machine Learning Basics
 * [PPT 1 - Theory Intro](pdf/ML1.pdf): The basic vocabulary and concepts of machine learning 
 * [Tutorial 4 - Using Classifiers](tutorial/Tutorial_04_Using_Classifiers.ipynb): Using scikit-learn to do our first ML project!
+* [Homework 1 - Mystery Classifiers](class/HW1_Mystery_Classifiers.ipynb): Make that machine learn!
 
 
 <!---
@@ -26,7 +27,7 @@ COMMENTS!!!!!
 * [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_06_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms and Pipelines](tutorial/Tutorial_07_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
 * [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
-* [Homework 2 - Mystery Classifiers](class/HW2_Mystery_Classifiers.ipynb): How to use a scikit-learn classifier 
+* 
 
 ## Classifier Deep Dives
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
