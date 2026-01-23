@@ -9,13 +9,14 @@
 * Cheat Sheets: [numpy](pdf/numpy_cheat_sheet.pdf) | [matplotlib](pdf/matplotlib_cheat_sheet.pdf) | [pandas](pdf/pandas_cheat_sheet.pdf) | [sklearn](pdf/sklearn_cheat_sheet.pdf)
 * Exercise: [Python Practice](class/Python_Practice.ipynb) 
 
+## Machine Learning Basics
+* [PPT 1 - Theory Intro](pdf/ML1.pdf): The basic vocabulary and concepts of machine learning 
+* [Tutorial 4 - Using Classifiers](tutorial/Tutorial_04_Using_Classifiers.ipynb): Using scikit-learn to do our first ML project!
+
+
 <!---
 COMMENTS!!!!!
 * [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
-
-## Machine Learning Basics
-* [Tutorial 4 - First_Look_at_Data](tutorial/Tutorial_04_First_Look_at_Data.ipynb): Using scikit-learn and pandas to look at real data
-* [PPT 1 - Intro To Classifiers](pdf/ML1.pdf): The basic vocabulary of supervised learning and classifiers 
 * [Homework 1 - DIY_1D_Classifier](class/HW1_DIY_1D_Classifier.ipynb) : Make your own simple classifier!  Make that machine learn!
 
 ## Classification Tools
