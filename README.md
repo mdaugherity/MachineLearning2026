@@ -14,8 +14,8 @@
 * [Tutorial 4 - Using Classifiers](tutorial/Tutorial_04_Using_Classifiers.ipynb): Using scikit-learn to do our first ML project!
 * [Homework 1 - Mystery Classifiers](class/HW1_Mystery_Classifiers.ipynb): Make that machine learn!
 * Exercise: [DIY_1D_Classifier](class/DIY_1D_Classifier.ipynb) : Make your own simple classifier!  
-
-
+* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Examples.ipynb): Notes on how to score a classifier.  With Math!
+  
 <!---
 COMMENTS!!!!!
 * [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
@@ -23,7 +23,7 @@ COMMENTS!!!!!
 
 ## Classification Tools
 * [Machine Learing Steps PPT](pdf/MLsteps.pdf): Big picture overview of the steps in machine learning
-* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_examples.ipynb): Notes on how to score a classifier.  With Math!
+
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 * [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_06_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
 * [Tutorial 7 - Data Transforms and Pipelines](tutorial/Tutorial_07_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
