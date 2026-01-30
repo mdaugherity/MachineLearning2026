@@ -14,8 +14,8 @@
 * [Tutorial 4 - Using Classifiers](tutorial/Tutorial_04_Using_Classifiers.ipynb): Using scikit-learn to do our first ML project!
 * [Homework 1 - Mystery Classifiers](class/HW1_Mystery_Classifiers.ipynb): Make that machine learn!
 * Exercise: [DIY_1D_Classifier](class/DIY_1D_Classifier.ipynb) : Make your own simple classifier!  
-* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Examples.ipynb): Notes on how to score a classifier.  With Math!
-  
+* [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Example.ipynb): Notes on how to score a classifier.  With Math!
+ 
 <!---
 COMMENTS!!!!!
 * [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
