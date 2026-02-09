@@ -16,8 +16,11 @@
 * Exercise: Make your own simple classifier! [DIY_1D_Classifier](class/DIY_1D_Classifier.ipynb) | [Solutions](class/DIY_1D_Classifier_SOLUTIONS.ipynb)
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Example.ipynb): Notes on how to score a classifier.  With Math!
 * [PPT 3 - More Tools](pdf/ML3.pdf): Introducing better tools including pandas, pipelines, cross validation, and grid search
-* [Tutorial 6 - Pandas](tutorial/Tutorial_06_Pandas.ipynb): A data processing tool worth knowing
-
+* [Tutorial 5 - Pandas](tutorial/Tutorial_05_Pandas.ipynb): A data processing tool worth knowing
+* [Tutorial 6 - Data Transforms and Pipelines](tutorial/Tutorial_06_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
+* [Tutorial 7 - Cross Validation](tutorial/Tutorial_07_Cross_Validation.ipynb): How to tune and evaluate performance of a classifier with GridSearchCV
+* [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
+ 
  
 <!---
 COMMENTS!!!!!
@@ -28,10 +31,7 @@ COMMENTS!!!!!
 * [Machine Learing Steps PPT](pdf/MLsteps.pdf): Big picture overview of the steps in machine learning
 
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
-* [Tutorial 6 - Tuning and Evaluation](tutorial/Tutorial_06_Tuning_and_Evaluation.ipynb): How to tune and evaluate performance of a classifier
-* [Tutorial 7 - Data Transforms and Pipelines](tutorial/Tutorial_07_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
-* [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
-* 
+
 
 ## Classifier Deep Dives
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
