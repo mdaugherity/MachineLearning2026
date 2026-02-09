@@ -17,6 +17,7 @@
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Example.ipynb): Notes on how to score a classifier.  With Math!
 * [PPT 3 - More Tools](pdf/ML3.pdf): Introducing better tools including pandas, pipelines, cross validation, and grid search
 * [Tutorial 5 - Pandas](tutorial/Tutorial_05_Pandas.ipynb): A data processing tool worth knowing
+* [Homework 2 - EDA](class/HW2_EDA.ipynb): Help out a restaurant from 30 years ago with exploratory data analysis in pandas
 * [Tutorial 6 - Data Transforms and Pipelines](tutorial/Tutorial_06_Transforms_and_Pipelines.ipynb): The unskippable step of scaling data and why pipelines are great
 * [Tutorial 7 - Cross Validation](tutorial/Tutorial_07_Cross_Validation.ipynb): How to tune and evaluate performance of a classifier with GridSearchCV
 * [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
