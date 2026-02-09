@@ -21,6 +21,11 @@
 * [Tutorial 7 - Cross Validation](tutorial/Tutorial_07_Cross_Validation.ipynb): How to tune and evaluate performance of a classifier with GridSearchCV
 * [Tutorial 8 - First Classification Recipe](tutorial/Tutorial_08_First_Classification_Recipe.ipynb): Putting the pieces together into usable code!
  
+
+## Classifier Deep Dives
+For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
+* Nearest Neighbors:  [PPT 4](pdf/ML4.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)
+
  
 <!---
 COMMENTS!!!!!
@@ -32,10 +37,6 @@ COMMENTS!!!!!
 
 * [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
 
-
-## Classifier Deep Dives
-For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
-* Nearest Neighbors:  [PPT 3](pdf/ML3.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)
 * Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 * Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
 * Linear Models: [PPT 6](pdf/ML6.pdf)
