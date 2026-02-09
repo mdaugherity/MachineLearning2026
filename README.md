@@ -15,6 +15,9 @@
 * [Homework 1 - Mystery Classifiers](class/HW1_Mystery_Classifiers.ipynb): Make that machine learn!
 * Exercise: Make your own simple classifier! [DIY_1D_Classifier](class/DIY_1D_Classifier.ipynb) | [Solutions](class/DIY_1D_Classifier_SOLUTIONS.ipynb)
 * [PPT 2 - Evaluating Classifiers](pdf/ML2.pdf) | [Code Example](class/Metrics_Example.ipynb): Notes on how to score a classifier.  With Math!
+* [PPT 3 - More Tools](pdf/ML3.pdf): Introducing better tools including pandas, pipelines, cross validation, and grid search
+* [Tutorial 6 - Pandas](tutorial/Tutorial_06_Pandas.ipynb): A data processing tool worth knowing
+
  
 <!---
 COMMENTS!!!!!
