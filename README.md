@@ -25,20 +25,13 @@
 
 ## Classifier Deep Dives
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
-* Nearest Neighbors:  [PPT 4](pdf/ML4.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)
-
- 
+* Nearest Neighbors:  [PPT 4](pdf/ML4.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)  | [DIY Neighbors Exercise](class/Neighbors_Exercise.ipynb)
+* Decision Trees: [PPT 5](pdf/ML5.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
+  
 <!---
 COMMENTS!!!!!
-* [Class Notes 1-22-24](class/Class_1_22_24_Intro.ipynb): Examples from class
-* 
 
-## Classification Tools
-* [Machine Learing Steps PPT](pdf/MLsteps.pdf): Big picture overview of the steps in machine learning
 
-* [Tutorial 5 - A_Classifier_Class](tutorial/Tutorial_05_A_Classifier_Class.ipynb): Lets give our classifier an interface like the scikit-learn classifiers
-
-* Decision Trees: [PPT 4](pdf/ML4.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 * Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
 * Linear Models: [PPT 6](pdf/ML6.pdf)
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
