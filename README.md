@@ -27,21 +27,24 @@
 For most classifiers I have Powerpoint slides explaining how it works and tutorial code for how to use it.
 * Nearest Neighbors:  [PPT 4](pdf/ML4.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)  | [DIY Neighbors Exercise](class/Neighbors_Exercise.ipynb)
 * Decision Trees: [PPT 5](pdf/ML5.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
-  
+* Bayesian Classifier: [PPT 6](pdf/ML6.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
+
+## Data Sets
+* [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
+* [Homework 3 - Trees on the Titanic](class/HW3_Trees_on_the_Titanic.ipynb)  Find out who sinks and who swims on real Titanic data
+
 <!---
 COMMENTS!!!!!
 
 
-* Bayesian Classifier: [PPT 5](pdf/ML5.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
+
 * Linear Models: [PPT 6](pdf/ML6.pdf)
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
 * Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
 * Deep Learning: [PPT 11](pdf/ML11.pdf) | [Tutorial 16](tutorial/Tutorial_16_Deep_Learning_Intro.ipynb) 
 * [Homework 3 - Won't You Be My Neighbor](class/HW3_Neighbors.ipynb): Make a simple Nearest Neighbor classifier
 
-## Data Sets
-* [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
-* [Homework 4 - Trees on the Titanic](class/HW4_Trees_on_the_Titanic.ipynb)  Find out who sinks and who swims on real Titanic data
+
 * [Tutorial 13 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 5 - Digits Throwdown](class/HW5_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * [Homework 6 - Neural Network OCR](class/HW6_Neural_Network_OCR.ipynb): Train a neural network to read your own handwriting!
