@@ -28,6 +28,7 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * Nearest Neighbors:  [PPT 4](pdf/ML4.pdf) | [Tutorial 9](tutorial/Tutorial_09_Nearest_Neighbors.ipynb)  | [DIY Neighbors Exercise](class/Neighbors_Exercise.ipynb)
 * Decision Trees: [PPT 5](pdf/ML5.pdf) | [Tutorial 10](tutorial/Tutorial_10_Decision_Trees.ipynb)
 * Bayesian Classifier: [PPT 6](pdf/ML6.pdf) | [Tutorial 12](tutorial/Tutorial_12_Bayesian_Classifier.ipynb)
+* Linear Models: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Linear_Models.ipynb)
 
 ## Data Sets
 * [Tutorial 11 - Titanic Pandas](tutorial/Tutorial_11_Titanic_Pandas.ipynb): Using pandas to look at the Titanic dataset
@@ -40,7 +41,7 @@ COMMENTS!!!!!
 
 
 
-* Linear Models: [PPT 6](pdf/ML6.pdf)
+
 * Neural Networks: [PPT 7](pdf/ML7.pdf) | [Tutorial 14](tutorial/Tutorial_14_Neural_Networks.ipynb)
 * Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
 * Deep Learning: [PPT 11](pdf/ML11.pdf) | [Tutorial 16](tutorial/Tutorial_16_Deep_Learning_Intro.ipynb) 
