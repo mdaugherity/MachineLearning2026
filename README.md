@@ -38,6 +38,11 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Homework 4 - Digits Throwdown](class/HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
 * [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb) | [scanned image](class/digits_scan_2026.jpg): Train a neural network to read your own handwriting! 
 
+## Recipes
+Copy-and-paste code to get you started on a problem
+* [Classification Recipe](tutorial/Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
+* [Regression Recipe](tutorial/Regression_Recipe.ipynb): Regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
+
 <!---
 COMMENTS!!!!!
 class/HW5_Neural_Network_OCR.ipynb
@@ -52,10 +57,7 @@ class/HW5_Neural_Network_OCR.ipynb
 
 
 
-## Recipes
-Copy-and-paste code to get you started on a problem
-* [Classification Recipe](tutorial/Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
-* [Regression Recipe](tutorial/Regression_Recipe.ipynb): Regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
+## 
 
 ## Extra Topics
 * [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
