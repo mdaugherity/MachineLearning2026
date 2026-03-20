@@ -36,7 +36,8 @@ For most classifiers I have Powerpoint slides explaining how it works and tutori
 * [Homework 3 - Trees on the Titanic](class/HW3_Trees_on_the_Titanic.ipynb)  Find out who sinks and who swims on real Titanic data
 * [Tutorial 13 - Digits Dataset](tutorial/Tutorial_13_Digits_Dataset.ipynb): Exploring the digits dataset for HW4
 * [Homework 4 - Digits Throwdown](class/HW4_Digits_Throwdown.ipynb): Show off each classifier's special tricks on the digits dataset
-* [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb) | [scanned image](class/digits_scan_2026.jpg): Train a neural network to read your own handwriting! 
+* [Homework 5 - Neural Network OCR](class/HW5_Neural_Network_OCR.ipynb) | [scanned image](class/digits_scan_2026.jpg): Train a neural network to read your own handwriting!
+* [ML Problems and Datasets](pdf/ML9.pdf): Notes before embarking on an ML project
 
 ## Recipes
 Copy-and-paste code to get you started on a problem
