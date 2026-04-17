@@ -44,6 +44,10 @@ Copy-and-paste code to get you started on a problem
 * [Classification Recipe](tutorial/Classification_Recipe.ipynb): Code to get you started on a classification problem using pipelines and grid searches
 * [Regression Recipe](tutorial/Regression_Recipe.ipynb): Regression problems using pipelines and grid searches (doesn't include discussion on cleaning data)
 
+## Extra Topics
+* [PPT 10 - Intro to PyTorch](pdf/ML10.pdf): Freedom!  Horrible, horrible freedom.
+* [PPT 11 - Intro to Deep Learning](pdf/ML11.pdf): Advanced networks for convolutions, RNNs, GANS, transformers, and reinforcement learning
+
 <!---
 COMMENTS!!!!!
 class/HW5_Neural_Network_OCR.ipynb
@@ -60,7 +64,7 @@ class/HW5_Neural_Network_OCR.ipynb
 
 ## 
 
-## Extra Topics
+
 * [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
 * [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 * [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
