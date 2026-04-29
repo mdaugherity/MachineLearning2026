@@ -47,20 +47,16 @@ Copy-and-paste code to get you started on a problem
 ## Extra Topics
 * [PPT 10 - Intro to PyTorch](pdf/ML10.pdf): Freedom!  Horrible, horrible freedom.
 * [PPT 11 - Intro to Deep Learning](pdf/ML11.pdf): Advanced networks for convolutions, RNNs, GANS, transformers, and reinforcement learning
+* [PPT 12 - Intro to LLMs](pdf/ML12.pdf): Going from N-gram models and RNNs to transforms and attention mechanisms for LLMs
 
 <!---
 COMMENTS!!!!!
 class/HW5_Neural_Network_OCR.ipynb
 
-
-
-
 * Gradient Boosted Trees: [PPT 9](pdf/ML9.pdf) | [Tutorial 15](tutorial/Tutorial_15_Boosted_Trees.ipynb)
-* Deep Learning: [PPT 11](pdf/ML11.pdf) | [Tutorial 16](tutorial/Tutorial_16_Deep_Learning_Intro.ipynb) 
+
+
 * [Homework 3 - Won't You Be My Neighbor](class/HW3_Neighbors.ipynb): Make a simple Nearest Neighbor classifier
-
-
-
 
 ## 
 
@@ -68,11 +64,8 @@ class/HW5_Neural_Network_OCR.ipynb
 * [PPT 8 - Regression](pdf/ML8.pdf) - Predicting a real-valued number instead of a category
 * [PPT 9 - Ensembles](pdf/ML9.pdf) - Improving performance with multiple classifiers/regressors: bagging, adaboost, random forests, gradient boosted trees, XGBoost
 * [PPT 10 - Unsupervised Learning](pdf/ML10.pdf) - what we can learn without labeled training data: clustering, genetic evolution, random (stochastic) methods
-* [PPT 11 - Modern Methods](pdf/ML11.pdf) - what's new in machine learning: GANS, Stable Diffusion, Deep Learning, LLMs
+
 * 
 
-UNUSED???
-* [Classifier Challenge](Class_Classifier_Challenge.ipynb): Evaluating classifiers problem in class 2.22.23
-* [Class Challenge](Class_Challenge_03_20_23.ipynb): Spring Break is over, let's remember how to do machine learning
 --->
 
